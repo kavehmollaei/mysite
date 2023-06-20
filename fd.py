@@ -4,4 +4,8 @@ while True:
     if counter ==3:
         print("finish")
 
+
+for item in range(10):
+    print(item)
+
     
