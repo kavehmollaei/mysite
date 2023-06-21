@@ -14,4 +14,7 @@ except Exception as e:
     print(e)
 
 
+def func_add(a,b):
+    return a + b
+
 
