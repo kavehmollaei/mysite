@@ -17,4 +17,11 @@ except Exception as e:
 def func_add(a,b):
     return a + b
 
+def string(a:str)->str:
+    if "admin" in a:
+        print('Exists')
+        return True
+    return False
+    
+    
 
