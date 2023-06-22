@@ -24,4 +24,7 @@ def string(a:str)->str:
     return False
     
     
+kaveh@gmail.com
+noora@gmail.com
+kamran@gmail.com
 
