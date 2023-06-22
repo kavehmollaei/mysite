@@ -24,7 +24,9 @@ def string(a:str)->str:
     return False
     
     
-kaveh@gmail.com
-noora@gmail.com
-kamran@gmail.com
+lst=['kaveh@gmail.com',
+'noora@gmail.com']
+
+for item in lst:
+    print(item)
 
