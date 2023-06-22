@@ -30,3 +30,5 @@ lst=['kaveh@gmail.com',
 for item in lst:
     print(item)
 
+
+lambda x: 2*x
