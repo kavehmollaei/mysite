@@ -32,3 +32,8 @@ for item in lst:
 
 
 lambda x: 2*x
+
+url="www.yahoo.com"
+
+if 'yahoo' in url:
+    raise valueError
